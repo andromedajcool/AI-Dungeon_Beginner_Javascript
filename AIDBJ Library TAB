@@ -1,0 +1,25 @@
+// ==========================================================
+// OUTLINE FREE TO USE
+// Optimized for AI Dungeon cache-compatible models
+// Outline by @Andromeda242526
+// ==========================================================
+
+// Javascript Code. Quick lesson in coding. When a set of text has double forward slashes like that. It is called a comment. 
+// The script will not consider these comments as readable content. 
+
+/* Another Form of a comment when you want to have comments...
+   use multiple lines but you don't want to put // in front of 
+   every line you can make a comment with a BLOCK comment...
+   Block comments are made using a / and a * 
+   Remember to CLOSE it with the same symbols in reverse * then /
+*/
+
+// You can erase lines 7-17 now...
+
+const SCENARIO_RULES = `
+DELETE THIS LINE AND ADD ANYTHING YOU WISH TO MAKE INTO A RULE.
+
+`; /* DO NOT DELETE ANYTHING FROM THIS LINE. DO NOT MOVE THIS COMMENT! DO NOT ALTER the opening or closing backticks. Feel free to edit ONLY what is BETWEEN  
+ const SCENARIO_RULES = `       and the final          `;
+
+ This script will affect the Context Tab. See "SCENARIO_RULES" Context tab -> End of line 3. DO NOT ALTER Context / Input / Output tabs   */
